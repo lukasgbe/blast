@@ -682,7 +682,8 @@ input[type='checkbox'] {
 .cards-1 {
 	padding-top: 9.5rem;
 	padding-bottom: 6.625rem;
-	background-color: #040470;
+	background: rgb(241,135,251);
+        background: linear-gradient(90deg, rgba(241,135,251,1) 0%, rgba(67,156,251,1) 100%);;
 }
 
 .cards-1 .h2-heading {
@@ -712,13 +713,13 @@ input[type='checkbox'] {
 	width: 74px;
 	height: 74px;
 	border-radius: 50%;
-	background-color: #CC22FF;
+	background-color: #FFFFFF;
 	text-align: center;
 }
 
 .cards-1 .card-icon .fas,
 .cards-1 .card-icon .far {
-	color: #5E17EB;
+	color: #CC22FF;
 	font-size: 2rem;
 	line-height: 4.625rem;
 }
