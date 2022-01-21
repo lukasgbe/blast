@@ -705,14 +705,14 @@ input[type='checkbox'] {
 
 .cards-1 .card-icon-wrapper {
 	padding-left: 2rem;
-	border-left: 1px solid ##5E17EB;
+	border-left: 1px solid #CC22FF;
 }
 
 .cards-1 .card-icon {
 	width: 74px;
 	height: 74px;
 	border-radius: 50%;
-	background-color: ##D5D5FD;
+	background-color: #D5D5FD;
 	text-align: center;
 }
 
