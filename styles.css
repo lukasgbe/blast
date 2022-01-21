@@ -682,8 +682,8 @@ input[type='checkbox'] {
 .cards-1 {
 	padding-top: 9.5rem;
 	padding-bottom: 6.625rem;
-	background: rgb(241,135,251);
-        background: linear-gradient(90deg, rgba(241,135,251,1) 0%, rgba(67,156,251,1) 100%);;
+	background: rgb(135,17,193);
+        background: linear-gradient(90deg, rgba(135,17,193,1) 0%, rgba(36,114,252,1) 100%);
 }
 
 .cards-1 .h2-heading {
