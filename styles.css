@@ -713,13 +713,13 @@ input[type='checkbox'] {
 	width: 74px;
 	height: 74px;
 	border-radius: 50%;
-	background-color: #FFFFFF;
+	background-color: transparent;
 	text-align: center;
 }
 
 .cards-1 .card-icon .fas,
 .cards-1 .card-icon .far {
-	color: transparent;
+	color: #FFFFFF;
 	font-size: 2rem;
 	line-height: 4.625rem;
 }
